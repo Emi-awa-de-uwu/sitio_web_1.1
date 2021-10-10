@@ -1,0 +1,42 @@
+h1{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 75px;
+    font-weight: bold;
+    font-style: italic;
+    color: green;
+    -webkit-text-stroke: 2px white ;
+}
+h2{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 35px;
+    font-weight: bold;
+    font-style: italic;
+    color: green;
+    -webkit-text-stroke: 1px white ;
+}
+h3{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 35px;
+    font-weight: bold;
+    font-style: italic;
+    color: green;
+    -webkit-text-stroke: 1px white ;
+}
+p{
+    color: black;
+    font-size: 18px;
+    font-style: normal;
+    font-family: Arial;
+    -webkit-text-stroke: auto white ;
+}
+h4{
+    color : rgb(165, 11, 11), rgba(218, 119, 6, 0.8) ;
+}
+a{
+    background: url(https://cdn-icons-png.flaticon.com/512/25/25284.png)  no-repeat center right /2rem ;
+    padding: 2.2rem;
+
+margin : 20px;
+color: yellowgreen;
+-webkit-text-stroke: auto black ;
+}
